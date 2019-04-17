@@ -4,11 +4,12 @@
 #include <dirent.h>
 
 int main ( int argc, char *argv[] )
-{
+{	
 	DIR *dp;
 	struct dirent *ep;
-	dp = opendir ("./");
-
+	
+	dp = opendir (argc > 1 ? argv[1] : "./");
+	
 	if (dp != NULL)
 	{
 		while (ep = readdir (dp))
