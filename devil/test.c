@@ -3,12 +3,14 @@
 #include <sys/types.h>
 #include <dirent.h>
 
+#define DEFAULT_DIR "/mnt/iso/"
+
 int main ( int argc, char *argv[] )
 {	
 	DIR *dp;
 	struct dirent *ep;
 	
-	dp = opendir (argc > 1 ? argv[1] : "./");
+	dp = opendir (argc > 1 ? argv[1] : DEFAULT_DIR);
 	
 	if (dp != NULL)
 	{
