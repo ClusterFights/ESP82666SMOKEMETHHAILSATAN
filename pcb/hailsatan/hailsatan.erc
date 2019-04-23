@@ -1,0 +1,111 @@
+ERC report (Sun 19 Aug 2018 06:15:00 PM PDT, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (124.46 mm,24.13 mm): Pin 1 (Power input) of component #PWR0187 is not driven (Net 73).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (133.35 mm,104.14 mm): Pin 1 (Power input) of component #PWR06 is not driven (Net 86).
+
+***** Sheet /ESP-01_00/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_14/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_15/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_03/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_01/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_04/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_02/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_07/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_05/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_06/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_08/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_09/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_10/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_11/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_12/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /ESP-01_13/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (146.05 mm,93.98 mm): Pin 1 (Power input) of component #PWR054 is not driven (Net 61).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (114.30 mm,67.31 mm): Pin 1 (Power input) of component #PWR0115 is not driven (Net 71).
+
+***** Sheet /Power/
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (175.26 mm,101.60 mm): Pin 1 (Power input) of component #PWR0178 is not driven (Net 148).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (100.33 mm,78.74 mm): Pin 1 (Power input) of component #PWR0168 is not driven (Net 152).
+
+ ** ERC messages: 36  Errors 0  Warnings 36
